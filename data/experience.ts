@@ -9,7 +9,7 @@ export interface Experience {
   technologies: string[];
 }
 
-export const experience = [
+export const experiences = [
   {
     id: "1",
     company: "FairwAI",
